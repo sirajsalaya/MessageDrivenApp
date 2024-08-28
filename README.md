@@ -9,7 +9,7 @@ A  simple message-driven application in Dot NET and (C#)  that simulates a produ
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/MessageDrivenApp.git
+   git clone https://github.com/sirajsalaya/MessageDrivenApp.git
    cd MessageDrivenApp
    dotnet restore
    dotnet build
